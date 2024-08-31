@@ -1,5 +1,7 @@
 p{
     color: red;
+    float: left;
+    clear: right;
 }
 body{
     font-family: 'Courier New', Courier, monospace;
