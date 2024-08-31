@@ -1,6 +1,7 @@
 p{
     color: red;
     padding: 5px;
+    background-color: aliceblue;
 }
 body{
     font-family: 'Courier New', Courier, monospace;
