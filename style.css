@@ -3,6 +3,8 @@ p{
     float: left;
     text-align: center;
     clear: right;
+    padding: 5px;
+    background-color: aliceblue;
 }
 body{
     font-family: 'Courier New', Courier, monospace;
